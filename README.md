@@ -28,24 +28,29 @@
   - To address the project goals, the following visualizations have been created using Tableau:
 
     1. Bar Charts
+![Zomato 1](https://github.com/user-attachments/assets/1f31b7f9-c3d8-4fe6-8abf-6ca8f395568a)
 
       - Customer Segmentation & Sales: Displays total sales by different customer segments, including age group, gender, marital status, occupation, and income level.
 
       - Top Spending Customers: Shows a bar chart focusing on Zomato’s top-spending customers and the common characteristics they share.
 
     2. Line Charts
+![Zomato 2](https://github.com/user-attachments/assets/8f53ed84-918d-4a16-bd96-d8c2b16bacc1)
 
       - Trends by Customer Segment: Monthly trends for different customer segments, highlighting seasonal patterns and key times of the year when specific segments spend the most money.
 
       - Spending Over Time: Visualizes changes in overall customer spending habits over a specified period, broken down by customer demographics.
 
     3. Filters
+![Zomato 3](https://github.com/user-attachments/assets/7fe740ed-fee4-41cf-bac5-6d9e364668b3)
 
       - Customer Filters: Filters by demographic attributes (age, income, gender, etc.) to drill down into specific customer segments and analyze their purchasing behavior in more detail.
 
       - Time Filters: Allows for filtering by specific time periods to capture monthly or seasonal trends in customer spending.
 
 ## Key Findings
+![Zomato 4](https://github.com/user-attachments/assets/69440ea7-ce69-4281-a994-8975795ce460)
+![Zomato 5](https://github.com/user-attachments/assets/09671059-ecab-4a9f-9808-6c4eb8b6dbe8)
 
   - The following insights have been gained through the analysis:
 
@@ -56,6 +61,7 @@
     - Top-Spending Customers: A small group of customers contribute significantly to overall revenue. Understanding their behavior and tailoring marketing efforts toward these high-value customers can help Zomato improve customer retention.
 
 ## Recommendations
+![Zomato 6](https://github.com/user-attachments/assets/3801faf5-ec44-4296-a340-b4e3d51a294d)
 
   - Based on the analysis, the following recommendations are proposed:
 
